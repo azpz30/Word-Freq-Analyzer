@@ -1,4 +1,3 @@
-// COMP2521 21T2 Assignment 1
 // WFreq.h ... definition of (word, freq) type
 
 // !!! DO NOT MODIFY THIS FILE !!!

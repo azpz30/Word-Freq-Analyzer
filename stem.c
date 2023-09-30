@@ -1,4 +1,3 @@
-// COMP2521 21T2 Assignment 1
 // Stems words and prints them one per line
 
 // !!! DO NOT MODIFY THIS FILE !!!

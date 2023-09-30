@@ -1,4 +1,3 @@
-// COMP2521 21T2 Assignment 1
 // tw.c ... compute top N most frequent words in file F
 // Usage: ./tw [Nwords] File
 

@@ -1,4 +1,3 @@
-// COMP2521 21T2 Assignment 1
 // stemmer.c ... Porter stemming algorithm
 
 // !!! DO NOT MODIFY THIS FILE !!!
