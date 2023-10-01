@@ -32,7 +32,7 @@ To utilize this Text Analytics Toolkit and test it with your own input, follow t
 1. **Clone the Repository:**
    - Clone this GitHub repository to your local machine using the following command:
      ```
-     git clone https://github.com/yourusername/top-words-extractor.git
+     git clone https://github.com/azpz30/Word-Freq-Analyzer.git
      ```
    - Replace "yourusername" with your actual GitHub username.
 
