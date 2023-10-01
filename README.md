@@ -25,4 +25,40 @@ The project involves several essential steps:
 
 This project showcases my skills in data structures, algorithms, and software development, highlighting my ability to work with real-world data and create efficient and error-tolerant solutions. It's a testament to my dedication to mastering key concepts in computer science and applying them to practical challenges.
 
-Feel free to explore the repository to see the code, documentation, and results of various test cases. I am proud of this project, as it represents my commitment to excellence in software development and my passion for tackling complex problems in the world of data analytics.
+**Running the Program and Testing:**
+
+To utilize this Text Analytics Toolkit and test it with your own input, follow these simple steps:
+
+1. **Clone the Repository:**
+   - Clone this GitHub repository to your local machine using the following command:
+     ```
+     git clone https://github.com/yourusername/top-words-extractor.git
+     ```
+   - Replace "yourusername" with your actual GitHub username.
+
+2. **Compile the Program:**
+   - Navigate to the project directory:
+     ```
+     cd top-words-extractor
+     ```
+   - Compile the program using the provided Makefile:
+     ```
+     make
+     ```
+
+3. **Run the Program:**
+   - Execute the program by specifying the number of top words you want to extract (default is 10) and the input text file. For example:
+     ```
+     ./tw 20 data/your_input_file.txt
+     ```
+     - Replace "your_input_file.txt" with the name of your input text file.
+     - You can adjust the number of top words as needed.
+
+4. **Review the Results:**
+   - The program will display the top words along with their frequencies, sorted in descending order of frequency.
+
+5. **Test with Custom Input:**
+   - If you'd like to test the program with different input files, place your text files in the "data" directory.
+   - Run the program as described in step 3, specifying your custom input file.
+
+Feel free to experiment with various input files to analyze the word frequencies. The program's efficiency and accuracy make it a valuable tool for text analysis tasks.
